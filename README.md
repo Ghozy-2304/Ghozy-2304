@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ghozy-2304/Ghozy-2304/main/assets/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Ghozy-2304/Ghozy-2304/blob/main/assets/ChatGPT%20Image%204%20Sep%202025%2C%2009.34.40.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Intro -->
