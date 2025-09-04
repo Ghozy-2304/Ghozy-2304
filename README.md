@@ -13,7 +13,7 @@
 - 🔭 Currently learning **Front-End Development (HTML, CSS, JavaScript, React)**  
 - 🌱 Interested in **UI/UX, Open Source, and Web Performance**  
 - 💬 Ask me about **Web Development & Git**  
-- 📫 Reach me at: **your-email@gmail.com**  
+- 📫 Reach me at: **ghozy0432@gmail.com**  
 - ⚡ Fun fact: I love solving problems & continuous learning  
 
 ---
